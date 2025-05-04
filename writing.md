@@ -1,4 +1,4 @@
-# Writing
+# Writing samples
 
 Take a look at these samples.
 

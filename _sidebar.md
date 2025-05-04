@@ -1,3 +1,3 @@
 
-- [Automating](automating.md)
-- [Writing](writing.md)
+- [Automating samples](automating.md)
+- [Writing samples](writing.md)

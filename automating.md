@@ -1,6 +1,7 @@
-# Automating
+# Automating samples
 
 Take a look at these examples of topics that are automatically updated by daily automation.
+
 
 ## Markdown Enricher
 
@@ -10,6 +11,7 @@ Take a look at these examples of topics that are automatically updated by daily 
 ## Link checker
 
 ![Link checker results](images/link-checker.png)
+
 
 ## Topics updated from the IBM Cloud Kubernetes Service API
 
