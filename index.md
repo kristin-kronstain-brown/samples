@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
----
+title: Samples
+date: 2025-05-04
+--
 
