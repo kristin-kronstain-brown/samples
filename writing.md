@@ -9,6 +9,6 @@ Take a look at these samples.
 [Github pages](https://ibm.github.io/md-enricher-for-cicd/#/)
 
 
-## IBM Cloud InstructLab Service
+## IBM Cloud InstructLab Service docs
 
 [IBM Cloud Documentation](https://cloud.ibm.com/docs/instructlab?topic=instructlab-getting-started&interface=ui)
