@@ -15,7 +15,7 @@ Take a look at these examples of topics that are automatically updated by daily 
 
 ## Site maps
 
-![Site map](https://cloud.ibm.com/docs/instructlab?topic=instructlab-sitemap&interface=ui)
+[Site map](https://cloud.ibm.com/docs/instructlab?topic=instructlab-sitemap&interface=ui)
 
 
 ## Topic updates
