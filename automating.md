@@ -1,4 +1,4 @@
-# Automating samples
+# Automation samples
 
 Take a look at these examples of topics that are automatically updated by daily automation.
 
