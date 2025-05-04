@@ -1,6 +1,3 @@
----
-title: Writing
-date: 2025-05-04
----
+# Writing
 
 Take a look at these samples.
