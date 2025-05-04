@@ -1,0 +1,6 @@
+toc:
+  - index.md
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
