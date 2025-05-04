@@ -18,7 +18,9 @@ Take a look at these examples of topics that are automatically updated by daily 
 ![Site map](https://cloud.ibm.com/docs/instructlab?topic=instructlab-sitemap&interface=ui)
 
 
-## Topics updated from the IBM Cloud Kubernetes Service API
+## Topic updates
+
+These are examples of topics that are automatically updated by pulling data from the IBM Cloud Kubernetes Service API;
 
 ### Cluster flavors
 
