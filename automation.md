@@ -58,13 +58,35 @@ Example CSV output:
 
 ## Topic updates
 
-These are examples of topics that are automatically updated by pulling data from the IBM Cloud Kubernetes Service API.
+These are examples of topics that are automatically updated from the IBM Cloud Kubernetes Service REST API or other code updates.
+
+### Change logs
+
+The automation of change logs for the service was a multi-year effort that included contributions from a dozen different teams. We as the documentation team started asking the dev teams to provide basic change log information in YAML format, including the version number, the release date, a list of fixes, CVEs, and more. Then our automation would generate the markdown content in the format we controlled and could update as we needed to, then deliver the output to our doc repositories.
+
+#### Why were the change logs fun to automate?
+
+I got to work with so many different developers and take into account so many different pieces of information that needed to be included in the change logs for various pieces of the service. It was fun to connect again with developers I hadn't worked with for years, while at the same time, streamlining all of our efforts to get change logs out the door to customers.
+
+![Change logs](images/changelogs.jpg)
 
 ### Cluster flavors
+
+These tables are populated with worker node flavor details. 
+
+#### Why were the cluster flavors fun to automate?
+
+More than once the doc team was told that the topic was wrong, that some piece of information displaying in it was wrong. I loved the moments when I could point to a specific API call where the information was retrieved to show that the problem was not with the documentation, but with the API.
 
 ![Cluster flavors](images/cluster-flavors.jpg)
 
 ### Cluster add-on versions
+
+A list of available add-ons and their versions that can be used in the clusters.
+
+#### Why were the cluster add-on versions fun to automate?
+
+The API calls to gather the cluster add-on versions were simple, so I loved being able to write the script quickly and think about how many times over the scripts saved us from tedious changes or inaccurate information.
 
 ![Cluster add-on versions](images/add-on-versions.jpg)
 
@@ -77,6 +99,3 @@ These are examples of topics that are automatically updated by pulling data from
 ![Operating systems](images/os.jpg)
 
 
-### Change logs
-
-![Change logs](images/changelogs.jpg)
