@@ -1,4 +1,4 @@
-# Writing samples
+# Writing samples for Kristin Brown
 
 Take a look at these samples.
 

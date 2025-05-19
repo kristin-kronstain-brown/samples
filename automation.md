@@ -1,4 +1,4 @@
-# Automation samples
+# Automation samples for Kristin Brown
 
 Take a look at these examples of topics that are automatically updated by daily automation.
 

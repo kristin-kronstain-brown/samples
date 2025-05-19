@@ -1,5 +1,5 @@
 
-# Get to know Kristin
+# Get to know Kristin Brown
 
 Here are some common professional ice breaker questions to get to know Kristin a little better.
 
