@@ -5,7 +5,7 @@ Take a look at these examples of topics that are automatically updated by daily 
 
 ## Markdown Enricher
 
-[Github repo](https://github.com/IBM/md-enricher-for-cicd)
+Try it out! Check out the [public Github repo](https://github.com/IBM/md-enricher-for-cicd).
 
 ### Markdown Enricher features
 
