@@ -3,6 +3,15 @@
 
 Here are some common professional ice breaker questions to get to know Kristin a little better.
 
+
+## What is a technical writer?
+
+This video was created for my kids' pre-K class of 4-year-olds during career week to describe what a technical writer is. When we write or present technical content, we must consider our audience's capabilities and goals, no matter what the age. 
+
+<video src="videos/technical_writers_kristin_brown.mp4" width="960" height="540" controls></video>
+
+
+
 ## What led you to pursue your current profession?
 
 I studied history in college because I loved hearing stories about people, learning what motivated them to make decisions, and seeing what the consequences were. But just as much, I enjoyed writing about those stories. I enjoyed the process of organizing information in a way that could be categorized and structured to ensure clarity and support an argument. Technical writing was a natural transition from that study.

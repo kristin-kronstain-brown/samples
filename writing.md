@@ -1,6 +1,20 @@
 # Writing samples for Kristin Brown
 
-Take a look at these samples.
+In my 16 years with IBM, I have written for dozens of products and services, including:
+- InstructLab service on IBM Cloud
+- Kubernetes service on IBM Cloud
+- OpenShift service on IBM Cloud
+- Registry service on IBM Cloud
+- Openwhisk service on IBM Cloud
+- DevOps and Delivery Pipeline service on IBM Cloud
+- No code app development service on IBM Cloud
+- Logging and monitoring services on IBM Cloud
+- Reporting software for the Rational brand
+- Installation software for the Rational brand
+- Asset management software for the Rational brand
+- Project management software for the Rational brand
+
+Here are a few writing samples from the services that are publicly available.
 
 
 
@@ -30,16 +44,6 @@ View the topic: [https://cloud.ibm.com/docs/containers?topic=containers-strategy
 
 
 
-## FAQ
-
-I wrote many of the IBM Cloud InstructLab Service FAQ entries. I added several entries around billing this year. Billing can be a tricky area to write about. The information must describe how costs are calculated, but without providing concrete numbers. IBM has separate pricing calculators for that, so we must avoid potentially providing information that could conflict. 
-
-View the topic: [https://cloud.ibm.com/docs/instructlab?topic=instructlab-faq](https://cloud.ibm.com/docs/instructlab?topic=instructlab-faq)
-
-![IBM Cloud InstructLab Service FAQ](images/faq.png)
-
-
-
 ## Responsibilities
 
 I worked with a distinguished engineer to develop the original version of the Responsibilities topic. Though the idea for the topic was his, we worked together to find the right level of detail to describe what IBM's service maintenance responsibilities were versus what the customer responsibilities were. 
@@ -54,6 +58,37 @@ We got positive feedback on the high-level clarity that the information brought 
 View the topic: [https://cloud.ibm.com/docs/containers?topic=containers-responsibilities_iks](https://cloud.ibm.com/docs/containers?topic=containers-responsibilities_iks)
 
 ![IBM Cloud Kubernetes Service responsibilities](images/responsibilities.png)
+
+
+
+## FAQ
+
+I wrote many of the IBM Cloud InstructLab Service FAQ entries. I added several entries around billing this year. Billing can be a tricky area to write about. The information must describe how costs are calculated, but without providing concrete numbers. IBM has separate pricing calculators for that, so we must avoid potentially providing information that could conflict. 
+
+View the topic: [https://cloud.ibm.com/docs/instructlab?topic=instructlab-faq](https://cloud.ibm.com/docs/instructlab?topic=instructlab-faq)
+
+![IBM Cloud InstructLab Service FAQ](images/faq.png)
+
+
+
+## API docs
+
+As a writer and user of API documentation, it can be a struggle to understand how to use API docs effectively. API docs are usually documented in a way that makes users combine different pieces of information for themselves, which can be a frustrating endeavor, especially for new users.
+
+There is a tendency with technical writers to cover the user interface and command line tasks well, but often API tasks aren't included. Just like command line documentation, it can be helpful for users to see the order of calls that need to be made to achieve a desired outcome. 
+
+As I write API docs, I try to keep in mind:
+
+- What information does this call give me? 
+- What do I need to include in the payload and in what format?
+- What information should I expect back and in what format?
+- What errors might user hit and how do they get past them?
+
+The generation of API doc specification files are usually a collaboration with development. My role is to review and contribute changes back in code via Git pull requests. The JSON or YAML file is automatically built by using Swagger or OpenAPI. If there are content validation errors or issues, I can usually help resolve them.
+
+View the topic: [https://cloud.ibm.com/apidocs/instructlab](https://cloud.ibm.com/apidocs/instructlab)
+
+![InstructLab service API docs](images/api-docs.png)
 
 
 
@@ -83,11 +118,25 @@ I turned that information into the following topic.
 
 
 
-## Markdown Enricher docs
+## Deploy to IBM Cloud button
 
-I developed a Python-based CI/CD pre-processing tool for markdown. Our team needed to single-source markdown files, share them across services, and deliver them to different downstream public and enterprise Github repositories. It includes content parsing, a variety of content validation steps, and  both CLI and API calls for failover attempts to deliver the files.
+I wrote the original version of this the topic on how to create a Deploy to IBM Cloud button for a Readme in a Git repository. My version of the topic was originally sourced in DITA and eventually migrated to markdown.
 
-Though this documentation is maintained and developed internally at IBM, the Markdown Enricher is used to provide a subset of the documentation externally.
+I remember discussing repeatedly with the developer the number of conditions and considerations that the button creators would need to be aware of and were therefore included in this topic. The length of the topic revealed the design flaws in something that was meant to be quick and easy. Thankfully, the complexities were simplified and this topic became much slimmer over time due in part to the conversations we had.
 
-Markdown Enricher documentation in Github pages:
+View the topic: [https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-deploy-button](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-deploy-button)
+
+![Deploy to IBM Cloud button](images/deploy-button.png)
+
+
+
+## Markdown Enricher
+
+The Markdown Enricher is not a service on IBM Cloud, but created by me for use by my own team and later all of IBM Cloud Docs. I developed a Python-based CI/CD pre-processing tool for markdown. Our team needed to single-source markdown files, share them across services, and deliver them to different downstream public and enterprise Github repositories. It includes content parsing, a variety of content validation steps, and both CLI and API calls for failover attempts to deliver the files.
+
+Though the scripts and this documentation are maintained and developed internally at IBM, the Markdown Enricher itself is used to provide a subset of the capabilities publicly.
+
+View the Markdown Enricher documentation in Github pages:
 [https://ibm.github.io/md-enricher-for-cicd](https://ibm.github.io/md-enricher-for-cicd/#/)
+
+![Markdown Enricher documentation](images/markdown-enricher-docs.png)
