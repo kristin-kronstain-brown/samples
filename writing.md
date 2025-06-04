@@ -29,6 +29,16 @@ View the topic: [https://cloud.ibm.com/docs/instructlab?topic=instructlab-gettin
 ![Red Hat AI InstructLab on IBM Cloud](images/instructlab-gs.png)
 
 
+## Reviewing Jupyter notebook for the InstructLab service
+
+I tested the steps and edited the markdown content in a Jupyter notebook for IBM Research. These steps teach InstructLab service users how to create QNA files and a taxonomy to begin creating their own AI models.
+
+- [Original notebook](https://github.com/KenOcheltree/ilab-test/blob/41b44af968cdb073d2ce60020f9080ac6f573ad3/creating_instructlab_taxonomies.ipynb)
+- [Revised notebook by me](https://github.com/KenOcheltree/ilab-test/blob/e1cc3c22d3702007af70edae9e4b8ba2678c59fb/creating_instructlab_taxonomies.ipynb)
+- [Diff](https://github.com/KenOcheltree/ilab-test/pull/16/files)
+
+![IBM Cloud Kubernetes Service cluster strategy topic](images/jupyter-notebook.png)
+
 
 ## Strategy for high availability
 
