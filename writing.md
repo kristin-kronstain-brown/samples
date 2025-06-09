@@ -37,7 +37,7 @@ I tested the steps and edited the markdown content in a Jupyter notebook for IBM
 - [Revised notebook by me](https://github.com/KenOcheltree/ilab-test/blob/e1cc3c22d3702007af70edae9e4b8ba2678c59fb/creating_instructlab_taxonomies.ipynb)
 - [Diff](https://github.com/KenOcheltree/ilab-test/pull/16/files)
 
-![IBM Cloud Kubernetes Service cluster strategy topic](images/jupyter-notebook.png)
+![Jupyter notebook review](images/jupyter-notebook.png)
 
 
 ## Strategy for high availability
@@ -125,6 +125,19 @@ Failed to read secret data from secrets manager. Double check the authorization 
 I turned that information into the following topic.
 
 ![Secret data troubleshooting topic](images/secret-data.png)
+
+
+## Editing
+
+Though usually editing can focus on clarity, consistency, and accuracy, content formatting must also be taken into account. 
+
+While reviewing a line edit for another writer, I noticed how many notes they were trying to stuff at the top of the page.
+
+![Overloaded notes](images/note-overload.png)
+
+I suggested streamlining that display to a bulleted list. If everything is important, then nothing is important.
+
+![Overloaded notes fixed](images/note-overload-fixed.png)
 
 
 
