@@ -2,6 +2,13 @@
 
 Take a look at these examples of topics that are automatically updated by daily automation.
 
+## Preparing markdown content for AI consumption
+
+I participated in an experiment to use both RAG and fine-tuning to create a model for the IBM Cloud Docs content set. My contribution to the project was to automate the processing of the markdown content before it was used to train the model.
+
+Read the white paper:
+
+[Fine-tuning a model with Red Hat AI InstructLab trained on product documentation](https://cloud.ibm.com/docs/docs-fine-tuned-model?topic=docs-fine-tuned-model-docs-fine-tuned-model)
 
 ## Markdown Enricher
 
